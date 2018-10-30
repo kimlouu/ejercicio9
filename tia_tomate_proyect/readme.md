@@ -61,9 +61,9 @@
     - Font-Awesome
 
 ### Sketch Desktop Version:
-![Sketch Desktop Version](img/sketch_d.jpg)
+![Sketch Desktop Version](assets/img/sketch_d.jpg)
 ### Sketch Mobile Version:
-![Sketch Desktop Version](img/sketch_m.jpg)
+![Sketch Desktop Version](assets/img/sketch_m.jpg)
 
 ### Estructura:
 
